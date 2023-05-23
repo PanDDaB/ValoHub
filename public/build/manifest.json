@@ -1,0 +1,20 @@
+{
+  "public/images/chamber.png": {
+    "file": "assets/chamber-5bd67277.png",
+    "src": "public/images/chamber.png"
+  },
+  "public/images/valorant2.jpeg": {
+    "file": "assets/valorant2-695e4eb7.jpeg",
+    "src": "public/images/valorant2.jpeg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-3e592e4d.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-20106add.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
